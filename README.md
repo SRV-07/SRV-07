@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, MY Name is Sourav and i'm a Full Stack Web Developer
+Hi, My Name is Sourav and i'm a Full Stack Web Developer
 
 
 ## 🌐 Socials:
